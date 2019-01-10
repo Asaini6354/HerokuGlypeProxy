@@ -1,0 +1,16 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "HerokuGlypeProxy",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
